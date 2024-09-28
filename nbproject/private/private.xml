@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/data/model/MailServerInfo.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/encryption/EncryptionUtil.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/settings/settings.fxml</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/email/EmailUtil.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/main/Main.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/data/model/Book.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/login/LoginController.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/listbook/BookListLoader.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/data/callback/GenericCallback.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/settings/Preferences.java</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/ui/main/main.fxml</file>
+            <file>file:/E:/Project/Library-Assistant-master/src/library/assistant/data/model/Member.java</file>
+        </group>
+    </open-files>
+</project-private>

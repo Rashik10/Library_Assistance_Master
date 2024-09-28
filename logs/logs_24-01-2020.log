@@ -1,0 +1,14 @@
+2020-01-24 18:52:00.988 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 24-01-2020 06:52:00 PM
+2020-01-24 18:52:02.064 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-24 18:52:02.066 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-24 18:52:23.989 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-24 18:52:49.696 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-22 10:03:02.266
+2020-01-24 18:53:11.142 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-22 10:03:02.266
+2020-01-24 18:53:52.318 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-22 10:03:02.266
+2020-01-24 18:56:28.653 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-22 10:03:02.266
+2020-01-24 18:57:33.440 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 24-01-2020 06:52:00 PM. Used for 1579870653439 ms
+2020-01-24 18:57:36.269 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 24-01-2020 06:57:36 PM
+2020-01-24 18:57:37.389 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-24 18:57:37.391 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-24 18:57:44.102 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-24 18:57:48.900 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 24-01-2020 06:57:36 PM. Used for 1579870668900 ms

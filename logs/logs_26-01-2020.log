@@ -1,0 +1,31 @@
+2020-01-26 22:59:08.596 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 10:59:08 PM
+2020-01-26 22:59:09.649 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 22:59:09.652 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 22:59:24.062 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-26 23:04:53.793 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 26-01-2020 10:59:08 PM. Used for 1580058293792 ms
+2020-01-26 23:04:58.149 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:04:58 PM
+2020-01-26 23:04:59.048 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:04:59.050 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 23:05:06.139 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-26 23:07:20.350 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - INSERT INTO ISSUE(memberID,bookID) VALUES ('102','123') and UPDATE BOOK SET isAvail = false WHERE id = '123'
+2020-01-26 23:07:51.649 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-26 23:07:20.392
+2020-01-26 23:08:46.188 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-26 23:07:20.392
+2020-01-26 23:10:05.346 [JavaFX Application Thread] INFO  library.assistant.exceptions.ExceptionUtil - Issued on 2020-01-26 23:07:20.392
+2020-01-26 23:19:22.538 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 26-01-2020 11:04:58 PM. Used for 1580059162536 ms
+2020-01-26 23:19:29.662 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:19:29 PM
+2020-01-26 23:19:30.827 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:19:30.829 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 23:19:57.195 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:19:57 PM
+2020-01-26 23:19:58.157 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:19:58.159 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 23:20:05.147 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-26 23:20:07.194 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 26-01-2020 11:19:57 PM. Used for 1580059207193 ms
+2020-01-26 23:27:30.052 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:27:30 PM
+2020-01-26 23:27:31.021 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:27:31.023 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 23:27:50.662 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:27:50 PM
+2020-01-26 23:27:51.696 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:27:51.698 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-26 23:28:09.997 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 26-01-2020 11:28:09 PM
+2020-01-26 23:28:11.010 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-26 23:28:11.012 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded

@@ -1,0 +1,32 @@
+2020-01-21 01:49:10.893 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 01:49:10 AM
+2020-01-21 01:49:16.872 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables []
+2020-01-21 01:49:16.874 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Inflating new tables.
+2020-01-21 01:49:16.874 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - CREATE TABLE BOOK (id varchar(200) primary key,title varchar(200),author varchar(200),publisher varchar(100),isAvail boolean default true)
+2020-01-21 01:49:16.874 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - CREATE TABLE MEMBER (id varchar(200) primary key,name varchar(200),mobile varchar(20),email varchar(100))
+2020-01-21 01:49:16.875 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - CREATE TABLE ISSUE (bookID varchar(200) primary key,memberID varchar(200),issueTime timestamp default CURRENT_TIMESTAMP,renew_count integer default 0,FOREIGN KEY (bookID) REFERENCES BOOK(id),FOREIGN KEY (memberID) REFERENCES MEMBER(id))
+2020-01-21 01:49:16.876 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - CREATE TABLE MAIL_SERVER_INFO (server_name varchar(255),server_port integer,user_email varchar(1024),user_password varchar(1024),ssl_enabled boolean)
+2020-01-21 01:49:28.609 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-21 01:50:15.516 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 21-01-2020 01:49:10 AM. Used for 1579549815515 ms
+2020-01-21 01:50:22.126 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 01:50:22 AM
+2020-01-21 01:50:24.027 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 01:50:24.028 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-21 01:50:36.787 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-21 01:51:24.108 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 21-01-2020 01:50:22 AM. Used for 1579549884107 ms
+2020-01-21 01:55:34.916 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 01:55:34 AM
+2020-01-21 01:55:35.966 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 01:55:35.968 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-21 01:59:04.816 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 01:59:04 AM
+2020-01-21 01:59:05.759 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 01:59:05.761 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-21 01:59:41.395 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 01:59:41 AM
+2020-01-21 01:59:42.448 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 01:59:42.450 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-21 01:59:52.821 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-21 03:01:21.605 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 03:01:21 AM
+2020-01-21 03:01:22.595 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 03:01:22.597 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
+2020-01-21 03:01:33.217 [JavaFX Application Thread] INFO  library.assistant.ui.login.LoginController - User successfully logged in admin
+2020-01-21 03:01:41.751 [Thread-8] INFO  library.assistant.ui.main.Main - Library Assistant is closing on 21-01-2020 03:01:21 AM. Used for 1579554101750 ms
+2020-01-21 03:44:29.590 [main] INFO  library.assistant.ui.main.Main - Library Assistant launched on 21-01-2020 03:44:29 AM
+2020-01-21 03:44:30.645 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Already loaded tables [issue, book, member, mail_server_info]
+2020-01-21 03:44:30.647 [Thread-6] INFO  library.assistant.exceptions.ExceptionUtil - Tables are already loaded
